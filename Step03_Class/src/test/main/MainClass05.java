@@ -19,7 +19,6 @@ public class MainClass05 {
 		Rect r1 = new Rect();
 		r1.width = 3;
 		r1.height = 5;
-		r1.area = r1.width * r1.height;
 		
 		r1.showArea();
 	}
