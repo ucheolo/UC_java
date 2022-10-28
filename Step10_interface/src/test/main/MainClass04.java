@@ -15,7 +15,6 @@ public class MainClass04 {
 			System.out.println("천장에 구멍을 뚫어요");
 		});
 		
-		ArrayList
 		
 	}
 	
