@@ -18,6 +18,7 @@ public class MainClass02 {
 			String tmp = names.get(i);
 			System.out.println(tmp);
 		}
+		
 		System.out.println("--- 확장 for 문을 사용하면 ---");
 		for(String tmp:names) {
 			System.out.println(tmp);
