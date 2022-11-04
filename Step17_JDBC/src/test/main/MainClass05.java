@@ -33,7 +33,7 @@ public class MainClass05 {
       }
       
       //4번 회원 삭제해보세요.
-      int num = 4;
+      int num = 2;
       
       //DELETE 작업을 위해서 필요한 객체의 참조값을 담을 지역 변수 미리 만들기 
       PreparedStatement pstmt=null;
